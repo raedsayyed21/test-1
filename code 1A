@@ -1,0 +1,12 @@
+/*NAME: RAED IQBAL SAYED
+CLASS: CIVIL BRANCH
+DIVISION: B
+ROLL NO: 08
+UIN NO: 251C009
+*/
+#include <stdio.h>
+int main()
+{
+printf("NAME:- RAED IQBAL SAYED\n AGE:- 18\n CLASS:- CIVIL\n DIVISION:- B\n UIN: - 251C009 ");
+ return 0;
+}
